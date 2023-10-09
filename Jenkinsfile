@@ -1,4 +1,4 @@
-node('ubuntu-appseve')
+node('ubuntu-appsever')
 {
     def app
     stage('Clone Git')
